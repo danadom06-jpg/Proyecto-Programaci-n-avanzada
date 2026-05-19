@@ -1,0 +1,4 @@
+id,nombre,email,password,rol,fecha_registro,activo,extra
+1,Admin Principal,admin@tienda.com,admin123,administrador,2025-01-01 00:00:00,True,codigo_admin:ADMIN001
+2,Juan Pérez,empleado@tienda.com,emp123,empleado,2025-01-01 00:00:00,True,numero_empleado:EMP001
+3,María López,cliente@mail.com,cliente123,cliente,2025-01-01 00:00:00,True,telefono:555-1234

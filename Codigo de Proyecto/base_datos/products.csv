@@ -1,0 +1,11 @@
+id_producto,nombre,categoria,precio_compra,precio_venta,stock,codigo_barras,descripcion,activo
+P001,Camisa Polo,Ropa,120.0,250.0,49,750123456789,"Camisa de algodón, colores disponibles",True
+P002,Pantalón Mezclilla,Ropa,200.0,450.0,25,750123456790,Pantalón de mezclilla azul,True
+P003,Zapatos Deportivos,Calzado,350.0,699.0,20,750123456791,"Zapatos para correr, tallas 5-10",True
+P004,Gorra Deportiva,Accesorios,45.0,120.0,60,750123456792,"Gorra ajustable, varios colores",True
+P005,Mochila Escolar,Accesorios,180.0,399.0,25,750123456793,"Mochila resistente, varios compartimentos",True
+P006,Sudadera con Capucha,Ropa,250.0,550.0,40,,,True
+P007,Playera Estampada,Ropa,80.0,199.0,60,,,True
+P008,Chamarra de Mezclilla,Ropa,400.0,899.0,5,,,True
+P009,vestido casual,Ropa,180.0,420.0,25,,,True
+P010,Botas de piel,Calzado,600.0,1299.0,9,,,True
